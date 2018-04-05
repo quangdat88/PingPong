@@ -1,0 +1,6 @@
+<root>
+    <item
+        name='com.badlogic.gdx.graphics.Pixmap void setFilter(com.badlogic.gdx.graphics.Pixmap.Filter)'>
+        <annotation name='java.lang.Deprecated' />
+    </item>
+</root>
